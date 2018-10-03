@@ -2,7 +2,7 @@
 
 > Playing around with Firefox's ability to style, relayout or hide browser UI elements with the `userChrome.css` file
 
-# Introducion
+# Introduction
 
 All actions were performend on a Linux Mint 19 machine with Firefox 62 and the *McOS Mint Cinnamon* Theme. There are many
 macOS-ish themes for various desktop environments out there; they will probably look almost the same with these settings.
