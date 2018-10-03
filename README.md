@@ -4,7 +4,7 @@
 
 # Introduction
 
-All actions were performend on a Linux Mint 19 machine with Firefox 62 and the *McOS Mint Cinnamon* Theme. There are many
+All actions were performed on a Linux Mint 19 machine with Firefox 62 and the *McOS Mint Cinnamon* Theme. There are many
 macOS-ish themes for various desktop environments out there; they will probably look almost the same with these settings.
 The general concept of the `userChrome.css` file applies to Firefox on all operating systems.
 
@@ -81,7 +81,7 @@ Just give the menu bar a large enough left margin, and while we're at it, let's 
 
 # Give the notification bar some color (optional)
 
-This is both completely random and optional: let's give the notification bar that will slide down e.g. when you are connected
+This is both completely random and optional: let's give the notification bar that will slide down e.g. when you connect
 to a hotspot with the need of logging in before accessing the internet.
 
 I believe the default color of the bar is influenced by the theme of your OS.
@@ -140,7 +140,7 @@ notificationbox[notificationside="top"] > notification {
 
 ![Hide toolbox](screenshots/hide-toolbox.png)
 
-On a simple light or dark background this looks great, but on a noisy background we may add some more contrast.
+On a simple light or dark background this looks great, but on a noisy background, we may add some more contrast.
 
 # Style the window control buttons container - Style 1
 
